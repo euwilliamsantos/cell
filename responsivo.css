@@ -1,0 +1,41 @@
+@media screen and (max-width:600px){
+	.flex-pai{
+		
+
+	}
+
+
+	.main{
+		flex-grow: 1;
+		display: block;
+		margin: 50%;
+		margin-left: 20%;
+	}
+
+	.roda-pe a{
+		display: block;
+		color: white;
+		padding: 5px;
+
+	}
+
+
+	.filho{
+		display: flex;
+		flex-direction: column;
+		
+	}
+
+
+
+
+	.texto{
+		text-align: center;
+		margin: 40%;
+
+
+
+
+
+	}
+}
